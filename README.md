@@ -17,11 +17,11 @@ This repository contains my assignments and projects from the "Algorithms, Part 
 ### Elementary Sorts
 - **Assignment:** Implement elementary sorting algorithms such as selection sort, insertion sort, and shell sort.
 
-### Week 4: Merge Sort and Quick Sort
+### Merge Sort and Quick Sort
 - **Assignment:** Implement merge sort and quick sort algorithms.
 
-### Week 5: Priority Queues
+### Priority Queues
 - **Assignment:** Develop a priority queue using a binary heap.
 
-### Week 6: Symbol Tables
+### Symbol Tables
 - **Assignment:** Implement symbol tables using binary search trees and hash tables.
